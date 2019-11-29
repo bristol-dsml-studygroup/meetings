@@ -19,11 +19,11 @@ A typical workshop will look like this:
 - 6:00pm: Welcome by today’s facilitator(s)
 - 6:05pm: Learning time
 - 8:00pm: Pizza (sponsored) 
-- 8:25pm: Announcements if any, feedback welcomed if any (this can also be done by emailing bristol.dsml.studygroup@gmail.com 
+- 8:25pm: Announcements (if any), gathering feedback (this can also be done by emailing bristol.dsml.studygroup@gmail.com 
 - 8:30pm: End of workshop
 
 ## Open Source Courses
-We are open to suggestions on what courses the participants would like to do, for example, https://www.deeplearning.ai/deep-learning-specialization/ or https://www.fast.ai/. To kick start this group, we will be starting with the https://www.fast.ai/ : *Practical Deep Learning for Coders*. That does not mean that you can’t do any other course. We are open to suggestions, especially during the first couple of workshops.
+We are open to suggestions on what courses the participants would like to do, for example, [deeplearning.ai specialisation](https://www.deeplearning.ai/deep-learning-specialization/) or [fast.ai](https://www.fast.ai/). To kick start this group, we will be starting with the *fast.ai : Practical Deep Learning for Coders*. That does not mean that you can’t do any other course. We are open to suggestions, especially during the first couple of workshops.
 
 ## Benefits for Participants
 - Gain the most wanted skills
@@ -57,5 +57,5 @@ We reserve the right to take immediate actions, including, but not limited to, a
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please act to intercede or ask for help from the facilitator, event organisers, administrators, or email: bristol.dsml.studygroup@gmail.com
 
-Note that we ride on Women Tech Hub Code of Conduct, https://www.wthub.org/code-of-conduct/, please note the recruitment restrictions. 
+Note that we ride on [Women Tech Hub Code of Conduct](https://www.wthub.org/code-of-conduct/), please note the recruitment restrictions. 
 
