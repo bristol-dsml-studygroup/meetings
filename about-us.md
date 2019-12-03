@@ -1,19 +1,17 @@
-## Bristol Data Science and Machine Learning Study Group Vision
-We want everybody who wants to gain Machine Learning and Data Science skills to have access, physical and mental space, and community support to resources for their personal knowledge development.
+## Bristol Data Science and Machine Learning Study Group 
+
+## Vision
+The vision of this community group is to empowever every single person in Bristol and surrounding areas, to achieve quality Machine Learning and Data Science knowledge, so that they can go on and do great things that benefit the quality of life of fellow earth citizens. 
 
 ## Mission
-This is a self-managed, self-sustained group that welcomes anyone who would like to get into Data Science and Machine Learning. We provide a relaxed and friendly environment to support individuals via peer-support.
+The mission is to provide a self-managed, self-sustained group that welcomes anyone who would like to get into Data Science and Machine Learning, a safe and friendly space where individual can learn and grow with peer-support.
 
 ## Format
-We meet every fortnight Wednesdays 6:00pm - 8:30pm at Level 3, Desklodge House, Redcliffe Way, Bristol BS1 6NL. 
+We meet every fortnight Wednesdays 6:00pm - 8:30pm at Level 3, Desklodge House, Redcliffe Way, Bristol BS1 6NL. For schedule events, please visit [Bristol Data Science and Machine Learning Study Group](https://www.meetup.com/Bristol-Data-Science-and-Machine-Learning-Study-Group/)
 
-Participants will go through the video and exercises at their own pace - this can be outside or, if needed, during the study group meetings. However, bear in mind that learning materials might require more time than 2 hours per week.
+Participants will go through the open source material, such as video and exercises at their own pace - this can be outside or, if needed, during the study group meetings. Participants are encouraged to pair up with a learning buddy and use the meetings to support one another. It is envisaged to the group to have a consolidation session every now and then, where possible.
 
-Participants are encouraged to pair up with a learning buddy and use the meetings to support each other, by checking in on overall progress, compare solutions to exercises, ask questions, etc.
-
-Everyone is encouraged to help one another out at any point of time. It is envisaged to the group to have a consolidation session every now and then. 
-
-You will need to bring your own laptop (and we can help you get started with the tech setup for Data Science).
+You will need to bring your own laptop.
 
 A typical workshop will look like this:
 - 6:00pm: Welcome by today’s facilitator(s)
@@ -32,7 +30,7 @@ We are open to suggestions on what courses the participants would like to do, fo
 - No pressure
 
 ## Giving back to the community
-Bristol Data Science and Machine Learning Study Group expects participants to contribute to the learners’ community during, and even better, after their learning journey. There are many ways to contribute, the main one is to take up the facilitator role whenever possible, see description below. Other ways may include, but are not limited to, knowledge sharing, help to organise events (if there will be any), bring along a friend/colleague, supporting new participants, etc.
+*Bristol Data Science and Machine Learning Study Group* expects participants to contribute to the learners’ community during, and even better, after their learning journey. There are many ways to contribute, the main one is to take up the facilitator role whenever possible, see description below. Other ways may include, but are not limited to, knowledge sharing, help to organise events (if there will be any), bring along a friend/colleague, supporting new participants, etc.
 
 Taking on the role of the facilitator ensures the sustainability and longevity of this group. The role of facilitator will typically include:
 - Setting up the venue before the start of the session
