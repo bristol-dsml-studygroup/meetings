@@ -7,7 +7,7 @@ The vision of this community group is to empowever every single person in Bristo
 The mission is to provide a self-managed, self-sustained group that welcomes anyone who would like to get into Data Science and Machine Learning, a safe and friendly space where individual can learn and grow with peer-support.
 
 ## Format
-We meet every fortnight Wednesdays 6:00pm - 8:30pm at Level 3, Desklodge House, Redcliffe Way, Bristol BS1 6NL. For schedule events, please visit [Bristol Data Science and Machine Learning Study Group](https://www.meetup.com/Bristol-Data-Science-and-Machine-Learning-Study-Group/)
+We meet every fortnight Wednesdays 6:00pm - 8:30pm at Level 3, Desklodge House, Redcliffe Way, Bristol BS1 6NL. For schedule events, please visit [Bristol Data Science and Machine Learning Study Group](https://www.meetup.com/Bristol-Data-Science-and-Machine-Learning-Study-Group/events/)
 
 Participants will go through the open source material, such as video and exercises at their own pace - this can be outside or, if needed, during the study group meetings. Participants are encouraged to pair up with a learning buddy and use the meetings to support one another. It is envisaged to the group to have a consolidation session every now and then, where possible.
 
