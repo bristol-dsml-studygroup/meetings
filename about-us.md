@@ -10,7 +10,7 @@ The mission is to provide a self-managed, self-sustained group that welcomes any
 
 ## Format
 
-This workshop is held in conjuction with [Women's Tech Hub Workshop Wednesdays] (https://www.meetup.com/Womens-Tech-Hub-Bristol/). We meet every fortnight Wednesdays 6:00pm - 8:30pm at Level 3, Desklodge House, Redcliffe Way, Bristol BS1 6NL. For schedule events, please visit [Bristol Data Science and Machine Learning Study Group] (https://www.meetup.com/Bristol-Data-Science-and-Machine-Learning-Study-Group/events/)
+This workshop is held in conjuction with [Women's Tech Hub Workshop Wednesdays](https://www.meetup.com/Womens-Tech-Hub-Bristol/). We meet every fortnight Wednesdays 6:00pm - 8:30pm at Level 3, Desklodge House, Redcliffe Way, Bristol BS1 6NL. For schedule events, please visit [Bristol Data Science and Machine Learning Study Group](https://www.meetup.com/Bristol-Data-Science-and-Machine-Learning-Study-Group/events/)
 
 Participants will go through the open source material, such as video and exercises at their own pace - this can be outside or, if needed, during the study group meetings. Participants are encouraged to pair up with a learning buddy and use the meetings to support one another. It is envisaged to the group to have a consolidation session every now and then, where possible.
 
@@ -28,11 +28,11 @@ A typical workshop will look like this:
 
 • 8:30pm: End of workshop
 
-There is an accompanying [github] (https://github.com/bristol-dsml-studygroup) repository where participants can contribute to, and you may find the [FAQs] (https://github.com/bristol-dsml-studygroup/about-us/blob/master/faq.md) useful.
+There is an accompanying [github](https://github.com/bristol-dsml-studygroup) repository where participants can contribute to, and you may find the [FAQs](https://github.com/bristol-dsml-studygroup/about-us/blob/master/faq.md) useful.
 
 ## Open Source Courses
 
-We are open to suggestions on what courses the participants would like to do, for example, [deeplearning.ai specialisation] (https://www.deeplearning.ai/deep-learning-specialization/) or [fast.ai] (https://www.fast.ai/). To kick start this group, we will be starting with the fast.ai : *Practical Deep Learning for Coders*. That does not mean that you can’t do any other course. We are open to suggestions.
+We are open to suggestions on what courses the participants would like to do, for example, [deeplearning.ai specialisation](https://www.deeplearning.ai/deep-learning-specialization/) or [fast.ai](https://www.fast.ai/). To kick start this group, we will be starting with the fast.ai : *Practical Deep Learning for Coders*. That does not mean that you can’t do any other course. We are open to suggestions.
 
 ## Benefits for Participants
 
