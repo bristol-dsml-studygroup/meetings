@@ -11,3 +11,6 @@
 - Code:
   - Python
   - build NN from *fastai* library, built on *PyTorch*
+  
+## [Intel AI Courses](https://software.intel.com/en-us/ai/courses#theory)
+- ?
